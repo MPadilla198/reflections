@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing it allows the system to know that you want to start saving versions of it. This allows you to start making commits.
+
+
