@@ -23,3 +23,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Saving file versions to a flash drive and everyone who wanted to participate would get a copy of the flash drive and opy it to their computer. It would be easier by not being as technical as using Git or GitHub, but it would be harder in that it'll require a lot more time and energy to be spent in spreading file changes to everybody when a change is made.
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When collaborating with others. This allows others to view the changes that you have made and respond to them before you just add the changes without their knowing.
+
+
