@@ -3,3 +3,21 @@ What happens when you initialize a repository? Why do you need to do it?
 Initializing it allows the system to know that you want to start saving versions of it. This allows you to start making commits.
 
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area allows you to choose what from the working directory to add into a commit. The working directory has all the files in a directory, the staging area has those specified by the user for git to operate on with commits. This allows the developer to be more effective by choosing what files to save.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Only add files that have similar changes to the staging area to be committed rather than committing everything all at once.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be useful when implementing large changes in a project that have the possibility of ruining a project if implemented improperly. For example, adding large features, adding support for different languages, restructuring parts of the program to run more efficiently, etc.
+
+
+How do the diagrams help you visualize the branch structure?
+
+The diagram is the branch structure so it shows the branchs and how they lead to each other.
