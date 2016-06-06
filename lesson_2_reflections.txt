@@ -21,3 +21,10 @@ Branches would be useful when implementing large changes in a project that have 
 How do the diagrams help you visualize the branch structure?
 
 The diagram is the branch structure so it shows the branchs and how they lead to each other.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging combines two branches together to create one file. It's represented in that way to make it easier to understand and visualize.
+
+
